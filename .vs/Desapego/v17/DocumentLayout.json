@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|c:\\users\\diego\\desktop\\c#\\projetos\\desapego\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|c:\\users\\diego\\desktop\\c#\\projetos\\desapego\\views\\produtos\\pageprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|solutionrelative:views\\produtos\\pageprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|c:\\users\\diego\\desktop\\c#\\projetos\\desapego\\views\\contatos\\pagecontatos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|solutionrelative:views\\contatos\\pagecontatos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|c:\\users\\diego\\desktop\\c#\\projetos\\desapego\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|c:\\users\\diego\\desktop\\c#\\projetos\\desapego\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|c:\\users\\diego\\desktop\\c#\\projetos\\desapego\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|solutionrelative:controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|c:\\users\\diego\\desktop\\c#\\projetos\\desapego\\controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE288E5-71FF-4C7E-9403-5C64E087335D}|Desapego.csproj|solutionrelative:controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAK0AAAAAAAAAAADwv7QAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T23:32:27.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageContatos.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Views\\Contatos\\PageContatos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contatos\\PageContatos.cshtml",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Views\\Contatos\\PageContatos.cshtml",
+              "RelativeToolTip": "Views\\Contatos\\PageContatos.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAACUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T23:36:57.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContatosController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Controllers\\ContatosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContatosController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Controllers\\ContatosController.cs",
+              "RelativeToolTip": "Controllers\\ContatosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:35:41.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageProdutos.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Views\\Produtos\\PageProdutos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\PageProdutos.cshtml",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Views\\Produtos\\PageProdutos.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\PageProdutos.cshtml",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAJkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T23:31:53.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:30:44.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:01:27.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\C#\\projetos\\Desapego\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvxMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T22:03:05.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
