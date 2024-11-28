@@ -1,3 +1,4 @@
+using Microsoft.Extensions.FileProviders;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -11,6 +12,12 @@ if (!app.Environment.IsDevelopment())
     app.UseExceptionHandler("/Home/Error");
 }
 app.UseStaticFiles();
+app.UseStaticFiles(new StaticFileOptions
+ {
+     FileProvider = new PhysicalFileProvider(
+            Path.Combine(builder.Environment.ContentRootPath, "assests")),
+     RequestPath = "/assests"
+ });
 
 app.UseRouting();
 
